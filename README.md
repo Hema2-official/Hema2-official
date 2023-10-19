@@ -4,7 +4,7 @@
 - 🎮 I play `[Beat Saber, osu!, Just Shapes & Beats, Valorant]`.
 - 🌱 I’m currently involved in private projects...
 - 💞️ I’m looking to collaborate on anything future-changing!
-- 📫 If you want to chat, you can find me on Discord as Hema2.
+- 📫 If you want to chat, you can find me on Discord as hema2.
 
 <!---
 Hema2-official/Hema2-official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
