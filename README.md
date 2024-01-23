@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hema2.
-- 💞 I love to learn, solve, innovate
+- 💞 I love to `[learn, solve, innovate]`
 - 🧑‍💻 I have experience with `[Low-level, Full-stack web, Desktop, Mobile]` development
 - 🎮 I play `[Beat Saber, osu!, Just Shapes & Beats, Valorant]` sometimes
 - 🌱 I’m currently involved in private projects...
