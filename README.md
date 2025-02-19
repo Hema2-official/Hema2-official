@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hema2
 - 💞 I love to `[learn, solve, innovate]`
-- 🧑‍💻 I have experience with `[Low-level, Full-stack web, Desktop, Mobile, Embedded]` development
+- 🧑‍💻 I have experience with `[low-level, full-stack web, desktop, mobile, embedded]` development
 - 📓 My favorite programming language is C3 (and you should try it too)
-- 🎮 I play `[Beat Saber, osu!, Just Shapes & Beats, Valorant]` sometimes
+- 🎮 I play `[Beat Saber, osu!, Counter-Strike 2, Lethal Company, Forza Horizon 5]` sometimes
 - 🌱 I’m currently involved in private projects...
 - 📫 You can find me on Discord as `hema2`
 
